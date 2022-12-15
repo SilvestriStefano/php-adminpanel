@@ -2,7 +2,6 @@
 Admin panel that allows the user to perform CRUD and search operations on a relational database. Deployed with Heroku and PostgreSQL.
 
 ## Link
-https://php-adminpanel.herokuapp.com/
 
 ## Database
 ![ERD](https://github.com/SilvestriStefano/php-adminpanel/blob/62b9eccf41c9ce9b57aa25583d2c279ce567421a/img/erd.png)
